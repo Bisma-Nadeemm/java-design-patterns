@@ -1,4 +1,4 @@
-@startuml
+ @startuml
 package com.iluwatar.prototype {
   class App {
     - LOGGER : Logger {static}
